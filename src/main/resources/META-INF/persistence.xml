@@ -7,7 +7,7 @@
         <properties>
             <property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQLDialect" />
             <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver" />
-            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/postgres" />
+            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/alunosdb" />
             <property name="javax.persistence.jdbc.user" value="alunos" />
             <property name="javax.persistence.jdbc.password" value="senha123"/>
 
